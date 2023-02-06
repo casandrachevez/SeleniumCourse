@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="test" />
         <module name="JavaSeleniumCourse" />
+        <module name="SeleniumCourse" />
       </profile>
     </annotationProcessing>
   </component>
